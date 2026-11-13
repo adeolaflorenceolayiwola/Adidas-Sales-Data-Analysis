@@ -151,6 +151,11 @@ The following dashboard provides a visual summary of Adidas sales performance ac
 | Primary Tool | Microsoft Excel |
 | Analyst | Adeola Florence OLAYIWOLA |
 
-## About Me
+## Author
 
-I am an aspiring Data Analyst with interests in Business Intelligence and Financial Analysis. I hold a Bachelor of Education in Educational Management from the University of Ibadan. I am developing practical analytical skills through hands-on projects involving business data analysis, performance reporting and data visualisation. I am particularly interested in using data to uncover business insights and support informed decision-making.
+**Adeola Florence OLAYIWOLA**
+
+Aspiring Data Analyst | Business Intelligence | Financial Analysis
+
+[View My GitHub Profile](https://github.com/adeolaflorenceolayiwola)
+ 
